@@ -1,0 +1,12 @@
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\Restore\Work\C#\code\C#\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
