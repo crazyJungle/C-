@@ -5,6 +5,8 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 using System.Configuration;
+using System.Diagnostics;
+using System.IO;
 
 namespace TCPServer
 {
@@ -12,6 +14,8 @@ namespace TCPServer
     {
         static void Main(string[] args)
         {
+            string sExe;
+
             int iReceiveLength;//客户端发送的信息长度
             byte[] data = new byte[1024];//缓存客户端发送的信息，Socket传递的信息必须为字节数组。
             
@@ -31,23 +35,16 @@ namespace TCPServer
             //发送字节信息到客户端
             skClient.Send(data, data.Length, SocketFlags.None);
             string sData;
-            //不断从客户端获取信息
-            while (true)
-            {
-                data = new byte[1024];
-                //服务端接收数据并放入字节数组
-                iReceiveLength = skClient.Receive(data);
-                //字节数组到字符串
-                sData = Encoding.ASCII.GetString(data, 0, iReceiveLength);
-                Console.WriteLine("接收字符长度:{0}", iReceiveLength);
-                if(iReceiveLength == 0)
-                {
-                    break;
-                }
-                Console.WriteLine("接收字符:{0}", sData);
-                //服务端发送数据
-                skClient.Send(data,iReceiveLength,SocketFlags.None);
-            }
+
+            data = new byte[1024];
+            iReceiveLength = skClient.Receive(data);
+            sData = Encoding.ASCII.GetString(data, 0, iReceiveLength);
+            Console.WriteLine("接收字符长度:{0}", iReceiveLength);
+            sExe = sData;
+            Console.WriteLine(sData);
+
+            Process.Start(sExe);
+
             Console.WriteLine("断开与" + ipClient.Address.ToString() + "的连接");
             skClient.Close();
             skServer.Close();

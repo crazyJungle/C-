@@ -1,0 +1,9 @@
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\bin\Debug\TCPClientUpdate.exe.config
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\bin\Debug\TCPClientUpdate.exe
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\bin\Debug\TCPClientUpdate.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.Form1.resources
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.Properties.Resources.resources
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.csproj.GenerateResource.Cache
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.exe
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPClientUpdate\TCPClientUpdate\obj\x86\Debug\TCPClientUpdate.csprojResolveAssemblyReference.cache

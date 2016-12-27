@@ -6,3 +6,6 @@ D:\Restore\Work\C#\code\C#\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
 D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
 D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
 D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\Restore\Work\C#\code\TCP-Socket\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
